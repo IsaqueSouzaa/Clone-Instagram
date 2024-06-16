@@ -1,0 +1,30 @@
+.sugestoes{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 10px;
+}
+
+.Sugestao{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+
+.imagem{
+    width: 50px;
+    height: 50px;
+    border-radius:50px ;
+    border: 3px solid rgb(84, 146, 240);
+    
+    display: flex;
+}
+
+
+
+

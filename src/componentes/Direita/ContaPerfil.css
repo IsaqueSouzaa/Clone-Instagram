@@ -1,0 +1,14 @@
+.foto-perfil{
+    width: 55px;
+    height: 55px;
+    border-radius:50px ;
+    border: 1px solid rgb(240, 138, 91);
+}
+
+.Conta-nome {
+    display: flex;
+    align-items: center;
+    margin-left: 4%;
+    margin-top: 15px;
+    gap: 15px;
+}
